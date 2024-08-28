@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Usuairio",
+            "request": "launch",
+            "mainClass": "Usuairio",
+            "projectName": "Estudo-Da-Linguagem-Java-DIO_ec9b7ad4"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
