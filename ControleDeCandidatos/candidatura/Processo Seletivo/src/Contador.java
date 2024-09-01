@@ -28,6 +28,7 @@ public class Contador {
             System.err.println("O parametroUm precisar ser maior que o parametroDois");
 
 		int contagem = parametroDois - parametroUm;
+        System.out.println("O resultado é : "+contagem);
         
         for (int i = 1; i <= contagem; i++) {
             System.out.println( "Imprimindo os números: " + i);
